@@ -20,4 +20,4 @@ I am Konstantin, Co-founder of **[Velsa](https://www.velsa.de)**, Berlin. We bui
 Engineers in Berlin who enjoy hard problems in LLM systems and want to build something early. Let's talk. Happy to say more over coffee.
 
 Berlin
-[velsa.de](https://www.velsa.de) · konstantin.haefner@velsa.de · [LinkedIn](https://www.linkedin.com/in/konstantinhaefner582421142)
+[velsa.de](https://www.velsa.de) · [LinkedIn](https://www.linkedin.com/in/konstantinhaefner582421142)
